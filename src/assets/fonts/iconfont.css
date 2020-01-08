@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1578487455331'); /* IE9 */
+  src: url('iconfont.eot?t=1578487455331#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPAAAsAAAAAB9QAAANzAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqDFIJ1ATYCJAMQCwoABCAFhG0HQRvgBsgekiRFAQUUJACHiRgjHr4/+p373m1bFvyT7uNRFG0baBNYiSYUJdL4LvAvc9rKTkkug3oEJWbZccgZRT0AfBLhC4hfBN90MCXw54Nr6tfE8+xtLlFNEYWRgAObDqgb1yAPvIFM0DeMXdASzxPoNGscdFRU0QDOkjktEA+q0gvOGYNsyA3tQmvF2oR4hRbtZbFwC8BL8P34h7hwBkVLBXPu8VXhAOR8OX75XWfZZ8Gph4BwOhvYJiq2gSRuKh1nxCi8TdSpDtbZAdq1K0zVtenL76YdiY6iaLf+8ihCJVrBzO4GDRSpfDk6JIWvTSTB1+8sFT7I5Ha04gl4Q7RpebGeNuHs6jk6cCpGT540PXrU0IC3nw9smXVhuMeuS6h97cUmjDY9Xfo4TKkb8PRp8+PHjY8eDaBIJlFqwqzd2H3J3ok7rl/ZEigtvRAkrD4/zHXnRYRmrwuQTj18+iAJL9npj2ZfkqS1aOvD2iXbV6/2a8Tw8fjxowJfcKu4edXatTtj38s6IzSs1EzIiLzHCQ1wOmczcYAXv9rNMzdH+qGVDjkvwP6OklhTcWwQ2KtAVEYVlo5S14EoTfrJt4x+wozdu2aIe22unyjM8PNe5L3XoQLk373RZNJ6fUi8dBzHbz5+OD6k2fXdEbGGoHKxTufqLllC40P1/X7ua+zuy/6nVYQ1Xq2syK1G5qy6ytzU48ev5a6vSPs/jRWgqfaIeQDUZxGgzglff99vHG8Om9vtkfHPWdIBfKb/WOBuShgm+AfCzsKfJezYlJrYNGYqEkegu9L+4CkFnTrxi+IMejOFaqRzNqHdSAJFmxmo2i2jSduGFl0a0KrdLnTaUry5yxBGFOkCbJoPIPQ7BEWvd6j63UaT9hpajPoGrfpDhE4n4bNnl9VQcT6jvZwOkL7JRO3XLLJt5jjMraPKoKmXpcUBvYkym+ojsVEx+VgxtVA2xQLbBCWOc5nITDOTInAZNZk0YmWagfbzKD3n1rToaLnqTVH9mhmwQwzVi6MGEH0mI1T9NBay15nDhc/XoRSDTHqxhrIqZxOKsVF7J2JFiemAFissncpu5RqbCRRxOE5GyBiNGVEEbJTJCmsIa/UoA6ofF0U/IGiVJhq1k7sqopZXmV8gn1VhHpYhIBHpkAPko2ru1Q3aKHM5vxKrZqEWDgAA') format('woff2'),
+  url('iconfont.woff?t=1578487455331') format('woff'),
+  url('iconfont.ttf?t=1578487455331') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1578487455331#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mima:before {
+  content: "\e69f";
+}
+
+.icon-user:before {
+  content: "\e606";
+}
+
+.icon-component:before {
+  content: "\e6f2";
+}
+
