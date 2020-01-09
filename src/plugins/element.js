@@ -11,12 +11,12 @@ import {
   Main
 } from 'element-ui'
 
-Vue.use(Button)
-Vue.use(Form)
-Vue.use(FormItem)
-Vue.use(Input)
-Vue.use(Container)
-Vue.use(Header)
-Vue.use(Aside)
-Vue.use(Main)
+Vue.component(Button.name, Button)
+Vue.component(Form.name, Form)
+Vue.component(FormItem.name, FormItem)
+Vue.component(Input.name, Input)
+Vue.component(Container.name, Container)
+Vue.component(Header.name, Header)
+Vue.component(Aside.name, Aside)
+Vue.component(Main.name, Main)
 Vue.prototype.$message = Message
