@@ -77,7 +77,6 @@
           return this.$message.error(res.meta.message)
         } else {
           this.menuList = res.data
-          console.log(this.menuList)
         }
       },
       toggleCollapse () {
