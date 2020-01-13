@@ -219,7 +219,8 @@
           ]
         },
         rolesList: [],
-        userInfo: {}
+        userInfo: {},
+        selectedRoleId: ''
       }
     },
     created () {
